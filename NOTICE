@@ -1,0 +1,17 @@
+Zekaland Robot Ördek
+Copyright 2026 Zekaland
+
+This product includes software developed by the microduck-replica project
+(https://github.com/fanhao375/microduck-replica), licensed under the
+Apache License, Version 2.0, and portions derived from Pollen Robotics'
+Microduck (https://github.com/pollen-robotics/microduck), licensed under
+the Apache License, Version 2.0.
+
+The software in software/, tools/ and scripts/ is redistributed unmodified
+from microduck-replica commit 789ef5e45b6102d7e71fecefbf58606520147cfa.
+Third-party binaries (tools/rufus, tools/飞特) and vendor PDF datasheets were
+omitted. Third-party libraries under software/studio/web/vendor/ and
+software/studio/deps/ retain their own licenses.
+
+Documentation, 3D models and print files are licensed under CC BY-NC-SA 4.0;
+see LICENSE and ATIF.md.

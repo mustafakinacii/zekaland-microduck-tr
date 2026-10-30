@@ -33,7 +33,7 @@ Zekaland atölyelerinde her katılımcı kendi projesini baştan sona üretir:
 
 Pekiştirmeli öğrenmeyle yürümeyi öğrenen, 25 cm boyunda, 3D baskı gövdeli, çift ayaklı robot ördek. Bu repo, robotun Türkçe yapım rehberini, Türkiye'ye göre hazırlanmış alışveriş listesini, ZEKALAND imzalı baskı dosyalarını ve yazılımını içerir.
 
-→ [Repoya dön](README.md) · [Yol haritası](belgeler/19-yol-haritasi.md) · [Atölyede robot ördek](belgeler/21-atolyede-robot-ordek.md)
+→ [Repoya dön](README.md) · [Yol haritası](belgeler/19-yol-haritasi.md)
 
 ## Neden Zekaland?
 

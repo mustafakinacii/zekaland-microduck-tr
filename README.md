@@ -17,12 +17,11 @@ Hazırlayan: **[Zekaland](ZEKALAND.md)** · Alanya · [zekaland.com.tr](https://
 
 | | |
 |---|---|
-| 🇹🇷 **Tamamen Türkçe rehber** | 22 belge: donanım, montaj, kalibrasyon, yazılım, sorun giderme |
+| 🇹🇷 **Tamamen Türkçe rehber** | 21 belge: donanım, montaj, kalibrasyon, yazılım, sorun giderme |
 | 🛒 **[Türkiye alışveriş listesi](ALISVERIS_LISTESI.md)** | Ne Türkiye'den, ne AliExpress'ten, ne JLCPCB'den alınır |
 | 🖨️ **Hazır Bambu Studio projesi** | 6 tabla, ~411 g PLA, ~22 saat; ayak tabanlarında **ZEKALAND** yazısı |
 | 🏷️ **Zekaland aksesuarları** | Sırt rozeti ve sergileme kaidesi |
 | 🗺️ **Yol haritası ve kontrol listesi** | Sipariş sırasından ilk ayağa kalkışa adım adım |
-| 👩‍🔧 **Atölye planı** | Grupla 6 oturumda robot ördek yapımı |
 | 💻 **Yazılım** | Web kontrol paneli, sistem imajı, servo ve IMU araçları, yürüme öğrenme (simülasyon) ortamı |
 
 ## Hızlı başlangıç
@@ -58,12 +57,11 @@ Hazırlayan: **[Zekaland](ZEKALAND.md)** · Alanya · [zekaland.com.tr](https://
 | 18 | [Montaj kılavuzu](belgeler/18-montaj-kilavuzu.md) | 15 alt grubun görselli montajı |
 | 19 | [Yol haritası](belgeler/19-yol-haritasi.md) | **Zekaland** · Siparişten yürüyüşe |
 | 20 | [İlk açılış kontrol listesi](belgeler/20-ilk-acilis-kontrol-listesi.md) | **Zekaland** · Güç, servo, yazılım kontrolleri |
-| 21 | [Atölyede robot ördek](belgeler/21-atolyede-robot-ordek.md) | **Zekaland** · Grup çalışması planı |
 
 ## Repo yapısı
 
 ```
-belgeler/          Türkçe rehber (22 belge)
+belgeler/          Türkçe rehber (21 belge)
 modeller/
   feetech/         Bambu Studio projesi + tek tek STL'ler (ZEKALAND tabanlı)
   zekaland/        Rozet, kaide, önizleme

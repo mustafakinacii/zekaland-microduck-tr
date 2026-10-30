@@ -4,6 +4,7 @@
 |---|---|
 | `zekaland_3mf.py` | Bambu Studio projesindeki ayak tabanlarına ZEKALAND yazısı kazır, diğer her şeyi aynı bırakır; tüm parçaları ayrıca STL olarak dışa aktarır |
 | `zekaland_parcalar.py` | Sırt rozeti ve sergileme kaidesini üretir |
+| `montaj_pdf.py` | `belgeler/18-montaj-kilavuzu.md` dosyasından Türkçe PDF kılavuzu üretir (Google Chrome gerekir) |
 
 Kurulum:
 

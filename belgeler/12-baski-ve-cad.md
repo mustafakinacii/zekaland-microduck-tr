@@ -9,7 +9,7 @@ Robotun bütün baskı dosyaları bu repoda, [`modeller/`](../modeller/) klasör
 | [`modeller/feetech/tabla-1.png` … `tabla-5.png`](../modeller/feetech/) | Tabla dizilim önizlemeleri |
 | [`modeller/zekaland/`](../modeller/zekaland/) | Zekaland aksesuarları: sırt rozeti ve sergileme kaidesi |
 | [`modeller/montaj-gorselleri/`](../modeller/montaj-gorselleri/) | Her alt grubun montaj ve patlatılmış görünüm resimleri |
-| [`modeller/montaj-kilavuzu.pdf`](../modeller/montaj-kilavuzu.pdf) | Orijinal montaj kılavuzu (PDF). Türkçesi: [18-montaj-kilavuzu.md](18-montaj-kilavuzu.md) |
+| [`modeller/montaj-kilavuzu.pdf`](../modeller/montaj-kilavuzu.pdf) | Montaj kılavuzu (Türkçe PDF, 23 sayfa, yazdırmaya hazır). Web sürümü: [18-montaj-kilavuzu.md](18-montaj-kilavuzu.md) |
 
 > ⚠️ Bu dosyalar **Feetech HD-1910** servolu sürüm içindir. Dynamixel XL330 servoların bağlantı parçaları farklıdır, iki sürüm karıştırılmaz.
 

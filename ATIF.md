@@ -17,7 +17,7 @@ Yazılımın içindeki üçüncü taraf kütüphaneler (`software/studio/web/ven
 
 - `belgeler/00–17`: Özgün dokümanların Türkçe çevirisi. Bağlantılar bu repodaki dosyalara yönlendirildi.
 - `belgeler/12`: Baskı ve CAD belgesi bu repoya göre yeniden yazıldı.
-- `belgeler/18`: Montaj kılavuzunun (PDF) Türkçe, görselli sürümü.
+- `belgeler/18`, `modeller/montaj-kilavuzu.pdf`: Montaj kılavuzunun Türkçe çevirisi; PDF yeniden dizildi (`araclar/montaj_pdf.py`).
 - `belgeler/19–20`, `ALISVERIS_LISTESI.md`, `ZEKALAND.md`, `README.md`: Zekaland'in özgün içeriği.
 - `modeller/feetech/zekaland-robot-ordek-feetech.3mf`: Özgün baskı projesi. Ayak tabanlarına (`sole_left`, `sole_right`) 0,6 mm derinlikte ZEKALAND yazısı kazındı ve proje başlığı değişti. Diğer bütün parçalar ve baskı ayarları aynı.
 - `modeller/feetech/stl/`: Aynı projeden dışa aktarılmış STL'ler.
